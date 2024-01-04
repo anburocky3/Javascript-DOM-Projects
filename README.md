@@ -15,10 +15,10 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 | No. | 🚀 Project Name                                      | ⏲️ Total Time |                       Source code                       | Video Link                                                                           | 🖥️ Live URL                                          |
 | --- | ---------------------------------------------------- | :-----------: | :-----------------------------------------------------: | ------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| #01 | [Know Your Name](#01-know-your-name-app)             |   ~ 3 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | https://anburocky3.github.io/know-your-name/         |
-| #02 | [Courier Pickup Form](#02-courier-pickup-form)       |   ~ 8 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | https://anburocky3.github.io/courier-pickup-form/    |
-| #03 | [Festival Greeting App](#03-festival-greeting-app)   |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | https://anburocky3.github.io/festival-greeting-app/  |
-| #04 | [Tamil Day Calendar App](#04-tamil-day-calendar-app) |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | https://anburocky3.github.io/tamil-day-calendar-app/ |
+| #01 | [Know Your Name](#01-know-your-name-app)             |   ~ 3 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/know-your-name/)         |
+| #02 | [Courier Pickup Form](#02-courier-pickup-form)       |   ~ 8 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/courier-pickup-form/)    |
+| #03 | [Festival Greeting App](#03-festival-greeting-app)   |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/festival-greeting-app/)  |
+| #04 | [Tamil Day Calendar App](#04-tamil-day-calendar-app) |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/tamil-day-calendar-app/) |
 
 ### Screenshots
 
@@ -28,7 +28,7 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 > **Description**
 >
-> Sample Text Is Here
+> Know Your Name is a simple app that greets you based on your input, and this this projct is very beginner and surface level to understand the DOM concepts and how we can dynamically make contents around the web. 
 
 ![Know Your Name](./screenshots/know-your-name.png)
 
@@ -40,7 +40,7 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 > **Description**
 >
-> Sample Text Is Here
+> Courier pickup form is an intermediate app where we showcased on our live that how to save the data to localStorage and how do we implement that data from localStorage to your webapp. Not only that but also we've given you more functionalities than a simple courier pickup app. 
 
 ![Know Your Name](./screenshots/courier-pickup-app.png)
 [Live Demo](https://anburocky3.github.io/courier-pickup-form/) | [Source Code](https://github.com/anburocky3/courier-pickup-form)
@@ -51,7 +51,7 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 > **Description**
 >
-> Sample Text Is Here
+> Festival greeting is an app where you can greet yourself or based on input you give into that app. A very simple app but we use different dependencies to make this app even more distinguished compared to other festival greeting apps. 
 
 ![Know Your Name](./screenshots/festival-app.png)
 [Live Demo](https://anburocky3.github.io/festival-greeting-app/) | [Source Code](https://github.com/anburocky3/festival-greeting-app)
@@ -62,7 +62,7 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 > **Description**
 >
-> Sample Text Is Here
+> Tamil day calendar is a Intermediate-level DOM project, where we need to pick a date, based on the picked date our app will show you the Tamil Day with all the necessary cultural events and vice versa.
 
 ![Know Your Name](./screenshots/tamil-calendar-app.png)
 [Live Demo](https://anburocky3.github.io/tamil-day-calendar-app/) | [Source Code](https://github.com/anburocky3/tamil-day-calendar-app)
