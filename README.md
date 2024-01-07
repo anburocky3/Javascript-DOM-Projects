@@ -74,9 +74,9 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 > **Description**
 >
-> This small app would give you the current IP address of yours using XMLHttprequest. This beginner project helps you to understand how actually API works and behind the scenes.
+> This small app would give you the current IP address of yours using XMLHttprequest. This beginner project helps you to understand how actually API works and behind the scenes. As per viewing on the screenshot below indicate as the try again error, because we've given you the instruction on our repository how it should install and open from your workspace. 
 
-![Know Your Name](./screenshots/ip-lookup-app.png)
+![Know Your Name](./screenshots/IP-webapp-new-screenshot.jpeg)
 [Live Demo](https://anburocky3.github.io/Get-My-IP-Web-App/) | [Source Code](https://github.com/anburocky3/Get-My-IP-Web-App)
 
 ---
