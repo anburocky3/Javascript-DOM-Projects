@@ -19,6 +19,8 @@ This repository will contain all javascript DOM projects with screenshots and so
 | #02 | [Courier Pickup Form](#02-courier-pickup-form)       |   ~ 8 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/courier-pickup-form/)    |
 | #03 | [Festival Greeting App](#03-festival-greeting-app)   |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/festival-greeting-app/)  |
 | #04 | [Tamil Day Calendar App](#04-tamil-day-calendar-app) |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://youtu.be/0Q8eftj5OA0) | [Live Demo](https://anburocky3.github.io/tamil-day-calendar-app/) |
+| #05 | [Get My IP WebApp](#05-get-my-ip-webapp) |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://www.youtube.com/watch?v=lje9-Ft71IA) | [Live Demo](https://anburocky3.github.io/Get-My-IP-Web-App/) |
+| #06 | [Advice Slip DOM](#06-advice-slip-dom) |   ~ 2 Hours   | [<img width="100px" src="./supports/code-btn.png" />]() | [<img width="100px" src="./supports/video-btn.png" />](https://www.youtube.com/watch?v=za0l3l8rwFg) | [Live Demo](https://anburocky3.github.io/advise-slip-dom/) |
 
 ### Screenshots
 
@@ -66,5 +68,27 @@ This repository will contain all javascript DOM projects with screenshots and so
 
 ![Know Your Name](./screenshots/tamil-calendar-app.png)
 [Live Demo](https://anburocky3.github.io/tamil-day-calendar-app/) | [Source Code](https://github.com/anburocky3/tamil-day-calendar-app)
+
+---
+
+#### 05-Get My IP Web App
+
+> **Description**
+>
+> This small app would give you the current IP address of yours using XMLHttprequest. This beginner project helps you to understand how actually API works and behind the scenes. As per viewing on the screenshot below indicate as the try again error, because we've given you the instruction on our repository how it should install and open from your workspace. 
+
+![Know Your Name](./screenshots/ip-lookup-app-1.png)
+[Live Demo](https://anburocky3.github.io/Get-My-IP-Web-App/) | [Source Code](https://github.com/anburocky3/Get-My-IP-Web-App)
+
+---
+
+#### 06-Advice Slip DOM
+
+> **Description**
+>
+> In this project, We tried how promise, fetch API, and async await works behind the scenes, and also We used Async Await to fetch `advices api` to give you an advice. It's an Advice app to give you some cool and boomer type advices. 
+
+![Advice Slip DOM](./screenshots/advice-slip-screenshot.png)
+[Live Demo](https://anburocky3.github.io/advise-slip-dom/) | [Source Code](https://github.com/anburocky3/advise-slip-dom)
 
 ---
